@@ -1,5 +1,5 @@
 # 💫 About Me:
-persuing my Bachelors Degree in Computer Sciences studying at Ramaiah university of Applied Sciences <br>skills:Python,LangChain (Chains, Tools,<br>Agents), FastAPI, Flask, Streamlit,<br>LangGarph, PyTorch<br>• LLM/AI Tools: Prompt Eng., RAG,<br>Fine-Tuning, Hugging Face, Vector Stores,<br>Embeddings<br>• Databases:: Pinecone, Faiss, ChromaDB<br>• Automation: n8n
+persuing my Bachelors Degree in Computer Sciences studying at Ramaiah university of Applied Sciences <br>skills:Python,SQL,LangChain (Chains, Tools,<br>Agents), FastAPI, Flask, Streamlit,<br>LangGarph, PyTorch<br>• LLM/AI Tools: Prompt Eng., RAG,<br>Fine-Tuning, Hugging Face, Vector Stores,<br>Embeddings<br>• Databases:: Pinecone, Faiss, ChromaDB<br>• Automation: n8n
 
 
 ## 🌐 Socials:
